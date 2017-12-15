@@ -1,0 +1,18 @@
+learning on date pecker
+Task:
+ customised templete
+animated view 
+
+datepecker with example
+
+tab navigation error 
+statcknavigation header bar 
+   there is a some errors in header
+back handler condtion
+
+Components for easygady 
+Textlabes for Truckinformation
+
+drewan tab navigation with tab navigation and stack navigation
+
+fashion pecks for sample app design:login page,sign uppage,Home design,animated
